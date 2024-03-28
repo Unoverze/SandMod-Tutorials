@@ -1,0 +1,84 @@
+{
+    "name": "ScreenMove",
+    "sizeType": 0,
+    "canvasRatio": [
+        1366,
+        768
+    ],
+    "canvasSize": [
+        1366,
+        768
+    ],
+    "win": {
+        [
+            "type": "image",
+            "image": [
+                "enable": true,
+                "visible": true,
+                "expand": false,
+                "id": 1,
+                "editorLock": false,
+                "editorHide": false,
+                "rectTransform": {
+                    "anchorMax": [
+                        1,
+                        1
+                    ],
+                    "anchorMin": [
+                        0,
+                        0
+                    ],
+                    "pivot": [
+                        0.5,
+                        0.5
+                    ],
+                    "offsetMax": [
+                        0,
+                        0
+                    ],
+                    "offsetMin": [
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1,
+                        1
+                    ],
+                    "rotation": 0
+                },
+                "name": "ScreenTouch",
+                "imageType": 0,
+                "preserveAspect": false,
+                "fillCenter": true,
+                "borderLeft": 0,
+                "borderRight": 0,
+                "borderTop": 0,
+                "borderBottom": 0,
+                "fillMethod": 0,
+                "fillOrigin": 0,
+                "fillStartPoint": 0,
+                "fillAmount": 0,
+                "fillClockwise": true,
+                "maskable": false,
+                "raycastTarget": true,
+                "raycastPadding": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "color": [
+                    1,
+                    1,
+                    1,
+                    0
+                ],
+                "material": "",
+                "materialUUID": "",
+                "texture2D": "",
+                "textureUUID": "",
+                "atlasUUID": ""
+            ]
+        ]
+    }
+}
